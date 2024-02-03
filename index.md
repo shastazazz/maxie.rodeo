@@ -36,7 +36,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+<!--- Comments are Fun --->
 #### Header 4
 
 *   This is an unordered list following a header.
