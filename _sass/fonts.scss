@@ -1,4 +1,13 @@
 @font-face {
+  font-family: 'Goblin One';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Goblin One'),
+       local('Goblin-One-400'),
+       url('../fonts/Goblin-One-400/Goblin-One-400.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
   font-style: normal;
@@ -52,13 +61,4 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
-}
-
-@font-face {
-  font-family: 'Goblin One';
-  font-weight: 400;
-  font-style: normal;
-  src: url('../fonts/Goblin-One-400/Goblin-One-400.ttf') format('truetype'),
-       local('Goblin One'),
-       local('Goblin-One-400');
 }
