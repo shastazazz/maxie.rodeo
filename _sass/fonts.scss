@@ -62,3 +62,39 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
+
+@font-face {
+  font-family: 'Poltawski Nowy';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Poltawski Nowy'),
+       local('PoltawskiNowy-Regular'),
+       url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poltawski Nowy';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Poltawski Nowy Bold'),
+       local('PoltawskiNowy-Bold'),
+       url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poltawski Nowy';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Poltawski Nowy Italic'),
+       local('PoltawskiNowy-Italic'),
+       url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poltawski Nowy';
+  font-weight: 700;
+  font-style: italic;
+  src: local('Poltawski Nowy Italic'),
+       local('PoltawskiNowy-Italic'),
+       url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Italic.ttf') format('truetype');
+}
