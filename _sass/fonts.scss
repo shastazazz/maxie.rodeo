@@ -58,5 +58,7 @@
   font-family: 'Goblin One';
   font-weight: 400;
   font-style: normal;
-  src: url('../fonts/Goblin-One-400/Goblin-One-400.ttf') format('truetype');
+  src: local('Goblin One'),
+       local('Goblin-One-400'),
+       url('../fonts/Goblin-One-400/Goblin-One-400.ttf') format('truetype');
 }
