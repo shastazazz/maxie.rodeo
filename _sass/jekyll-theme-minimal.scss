@@ -30,7 +30,8 @@ h1 {
 
 h2 {
   font-family: "Poltawski Nowy";
-  font: "Poltawski Nowy Bold";
+  font-weight:700;
+  font-style:normal;
   color:#000;
 }
 
@@ -213,7 +214,10 @@ hr {
 }
 
 footer {
-  font:16px'Poltawski Nowy Bold';
+  font-family:16px "Poltawski Nowy";
+  font-weight:700;
+  font-style:normal;
+  color:#000;
   width:270px;
   float:left;
   position:fixed;
