@@ -4,8 +4,6 @@ layout: default
 # Publications
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
-![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch Zine.](../assets/img/forward_momentum_headline.png)
-
 <ul style="list-style-type:none;padding:0">
   {% for post in site.posts %}
       <li><a href="{{ post.url }}">{{ post.secrettitle }}</a></li>
