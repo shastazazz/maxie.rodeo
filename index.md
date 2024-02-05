@@ -4,7 +4,7 @@ layout: default
 # Publications
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 ## Header 2
-
+![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch.](../assets/img/forward_momentum_headline.png)
 [Link to another page](./another-page.html).
 * * *
 <!---
