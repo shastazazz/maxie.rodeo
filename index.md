@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<a class="postborder">
-# Publications
+<a>
+  <h1 class="postborder">
+  Publications
+  </h1>
 </a>
+   
+
+
 <ul class="list-1">
   {%- for post in site.posts -%}
     <li>
