@@ -12,8 +12,11 @@ layout: default
       <h2>{{ post.secrettitle }}</h2>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ Read "HOW TO CHANNEL..." here. | escape }}
+          {{ post.title | escape }}
         </a>
+          <a href="{{ post.url | relative_url }}">
+                <img src="{{ post.image | relative_url }}" />
+          </a>
       </h3>
     </li>
   {%- endfor -%}
@@ -34,3 +37,5 @@ layout: default
 </div>
 {% endfor %}
 --->
+
+
