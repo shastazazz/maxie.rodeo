@@ -17,4 +17,22 @@ layout: default
 {% endfor %}
 
 * * *
-<!---The above section is an example of how posts should look on the front page!--->
+
+
+<ul>
+    {%- for post in site.posts -%}
+      <li>
+        {%- if post.image -%}
+          <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+        <!---{%- else -%}
+          {%- assign postImage = "/assets/images/image-default.jpg" -%}
+          <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">--->
+        {%- endif -%}
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
