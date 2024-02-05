@@ -11,7 +11,7 @@ layout: default
         {%- endif -%}
       <h2>{{ post.title }}</h2>
       <h3>
-        <a class="post-link" href="{{ post.secrettitle | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
       </h3>
