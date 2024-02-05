@@ -8,7 +8,7 @@ layout: default
 {%- for post in site.posts -%}
 
 <div>
-  {% assign photo_path = '/img/large/' | append: post.photo %}
+  {% assign photo_path = '/assets/img/' | append: post.photo %}
   <img src="{{ photo_path | relative_url }}" />
   <h2>{{ post.title }}</h2>
   <a href="{{ post.url }}">{{ post.secrettitle }}</a>
