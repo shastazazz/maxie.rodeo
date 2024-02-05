@@ -4,13 +4,11 @@ layout: default
 # Publications
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
-![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch.](../assets/img/forward_momentum_headline.png)
+![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch Zine.](../assets/img/forward_momentum_headline.png)
 
 <ul>
   {% for post in site.posts %}
-    <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
   {% endfor %}
 </ul>
 
