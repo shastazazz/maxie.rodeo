@@ -11,11 +11,12 @@ layout: default
           <img src="{{- post.image | relative_url -}}" 
                alt="{{ post.imagealt }}" 
                width="790"
-               class="imageborder"
           >
         </a>
       {%- endif -%}
-        <h2>{{ post.secrettitle }}</h2>
+        <h2 class="postborder">
+            {{ post.secrettitle }}
+        </h2>
     </li>
   {%- endfor -%}
 </ul>
