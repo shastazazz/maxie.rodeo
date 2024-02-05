@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+<a class="postborder">
 # Publications
-* * *
+</a>
 <ul class="list-1">
   {%- for post in site.posts -%}
     <li>
@@ -20,4 +21,3 @@ layout: default
     </li>
   {%- endfor -%}
 </ul>
-* * *
