@@ -5,22 +5,19 @@ layout: default
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
 <ul class="list-1">
-    {%- for post in site.posts -%}
-      <li>
+  {%- for post in site.posts -%}
+    <li>
         {%- if post.image -%}
-          <img src="{{- post.image | relative_url -}}" alt=""
-          >
-        <!---{%- else -%}
-          {%- assign postImage = "/assets/images/image-default.jpg" -%}
-          <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">--->
+          <img src="{{- post.image | relative_url -}}" alt="">
         {%- endif -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </li>
-      {%- endfor -%}
+      <h2>{{ post.title }}</h2>
+      <h3>
+        <a class="post-link" href="{{ post.secrettitle | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+    </li>
+  {%- endfor -%}
 </ul>
 * * *
 
