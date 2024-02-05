@@ -9,7 +9,7 @@ layout: default
         {%- if post.image -%}
           <img src="{{- post.image | relative_url -}}" alt="{{ post.imagealt }}">
         {%- endif -%}
-      <h2>{{ post.title }}</h2>
+      <h2>{{ post.secrettitle }}</h2>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
