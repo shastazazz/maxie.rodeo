@@ -10,8 +10,8 @@ layout: default
         <a href="{{ post.url | relative_url }}">
           <img src="{{- post.image | relative_url -}}" 
                alt="{{ post.imagealt }}" 
-               width="790px"
-               height="auto">
+               width="790"
+          >
         </a>
       {%- endif -%}
         <h2>{{ post.secrettitle }}</h2>
