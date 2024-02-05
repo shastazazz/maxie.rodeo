@@ -11,8 +11,8 @@ layout: default
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
 * * *
+<!---The above section is an example of how posts should look on the front page!--->
 <!---
 ### Small image
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
