@@ -8,7 +8,7 @@ layout: default
     <li>
       {%- if post.image -%}
         <a href="{{ post.url | relative_url }}">
-          <img src="{{- post.image | relative_url -}}" alt="{{ post.imagealt }}" border="5px dashed #000">
+          <img src="{{- post.image | relative_url -}}" alt="{{ post.imagealt }}" style="border:5px dashed #000">
         </a>
       {%- endif -%}
         <h2>{{ post.secrettitle }}</h2>
