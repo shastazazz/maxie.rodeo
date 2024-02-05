@@ -4,18 +4,6 @@ layout: default
 # Publications
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
-<ul style="list-style-type:none;padding:0">
-  {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.secrettitle }}</a></li>
-                {% if post.secrettitle %}
-                    <ul style="list-style-type:none;padding:0">
-                        <li></li>
-                        <li><a href="{{ post.url }}">{{ post.secrettitle }}</a></li>
-                    </ul>   
-                {% endif %}    
-  {% endfor %}
-</ul>
-
 {%- for post in site.posts -%}
 <div>
   {% assign photo_path = '/img/large/' | append: post.photo %}
