@@ -19,11 +19,12 @@ layout: default
 * * *
 
 
-<ul>
+<ul class="list-1">
     {%- for post in site.posts -%}
       <li>
         {%- if post.image -%}
-          <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+          <img src="{{- post.image | relative_url -}}" alt=""
+          >
         <!---{%- else -%}
           {%- assign postImage = "/assets/images/image-default.jpg" -%}
           <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">--->
