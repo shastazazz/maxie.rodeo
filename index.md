@@ -5,7 +5,7 @@ layout: default
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
 ![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch.](../assets/img/forward_momentum_headline.png)
-[HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM](../_posts/another-page.md).
+[Read Here.](./_posts/another-page.md)
 * * *
 <!---
 ### Small image
