@@ -17,7 +17,8 @@ layout: default
           >
         </a>
       {%- endif -%}
-        <h2 class="postborder">
+        <h2 href="{{ post.url | relative_url }}" 
+            class="postborder">
             {{ post.secrettitle }}
         </h2>
     </li>
