@@ -16,18 +16,3 @@ layout: default
   {%- endfor -%}
 </ul>
 * * *
-
-
-
-    
-    
-<!---
-{%- for post in site.posts -%}
-<div>
-  {% assign image_path = '/assets/img/' | append: post.image %}
-  <img src="{{ image_path | relative_url }}" />
-  <h2>{{ post.title }}</h2>
-  <a href="{{ post.url }}">{{ post.secrettitle }}</a>
-</div>
-{% endfor %}
---->
