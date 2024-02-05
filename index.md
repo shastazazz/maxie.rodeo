@@ -7,16 +7,15 @@ layout: default
   {%- for post in site.posts -%}
     <li>
         {%- if post.image -%}
+        <a href="{{ post.url | relative_url }}">
           <img src="{{- post.image | relative_url -}}" alt="{{ post.imagealt }}">
+        </a>
         {%- endif -%}
       <h2>{{ post.secrettitle }}</h2>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
-          <a href="{{ post.url | relative_url }}">
-                <img src="{{ post.image | relative_url }}" />
-          </a>
       </h3>
     </li>
   {%- endfor -%}
@@ -37,5 +36,3 @@ layout: default
 </div>
 {% endfor %}
 --->
-
-
