@@ -11,6 +11,7 @@ layout: default
           <img src="{{- post.image | relative_url -}}" 
                alt="{{ post.imagealt }}" 
                width="790"
+               class="imageborder"
           >
         </a>
       {%- endif -%}

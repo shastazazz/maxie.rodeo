@@ -163,6 +163,11 @@ ul.downloads {
   height:40px;
 }
 
+.imageborder {
+  border-bottom: 1px solid #d3d3d3;
+  padding-bottom: 5px;
+}
+
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
 }
