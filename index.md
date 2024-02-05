@@ -8,8 +8,8 @@ layout: default
 {%- for post in site.posts -%}
 
 <div>
-  {% assign photo_path = '/assets/img/' | append: post.photo %}
-  <img src="{{ photo_path | relative_url }}" />
+  {% assign image_path = '/assets/img/' | append: post.image %}
+  <img src="{{ image_path | relative_url }}" />
   <h2>{{ post.title }}</h2>
   <a href="{{ post.url }}">{{ post.secrettitle }}</a>
 </div>
@@ -18,9 +18,3 @@ layout: default
 
 * * *
 <!---The above section is an example of how posts should look on the front page!--->
-<!---
-### Small image
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-### Large image
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
---->
