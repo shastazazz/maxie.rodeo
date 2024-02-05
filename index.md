@@ -10,12 +10,12 @@ layout: default
   {%- for post in site.posts -%}
     <li>
       {%- if post.image -%}
-        <a href="{{ post.url | relative_url }}">
+        <!---<a href="{{ post.url | relative_url }}">--->
           <img src="{{- post.image | relative_url -}}" 
                alt="{{ post.imagealt }}" 
                width="790"
           >
-        </a>
+        <!---</a>--->
       {%- endif -%}
         <h2 href="{{ post.url | relative_url }}" 
             class="postborder">
