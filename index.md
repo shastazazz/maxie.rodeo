@@ -12,7 +12,7 @@ layout: default
       <h2>{{ post.secrettitle }}</h2>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {{ Read "HOW TO CHANNEL..." here. | escape }}
         </a>
       </h3>
     </li>
