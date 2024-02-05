@@ -8,7 +8,7 @@ layout: default
 
 <ul style="list-style-type:none;padding:0">
   {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.secrettitle }}</a></li>
   {% endfor %}
 </ul>
 * * *
