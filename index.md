@@ -13,9 +13,6 @@ layout: default
       {%- endif -%}
         <h2>{{ post.secrettitle }}</h2>
     </li>
-    
-* * *
-
   {%- endfor -%}
 </ul>
 * * *
