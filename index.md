@@ -6,9 +6,6 @@ layout: default
   Publications
   </h1>
 </a>
-   
-
-
 <ul class="list-1">
   {%- for post in site.posts -%}
     <li>
