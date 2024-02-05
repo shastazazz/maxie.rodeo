@@ -39,10 +39,6 @@ h2 {
   font-weight:400;
   font-style:normal;
   color:#000;
-  a:hover, a:focus {
-    color:#000;
-    font-weight: bold;
-  }
 }
 
 h3, h4, h5, h6 {
@@ -170,6 +166,9 @@ ul.downloads {
 .postborder {
   border-bottom: 2px solid #d3d3d3;
   padding-bottom: 5px;
+  a:hover, a:focus {
+  color:#000;
+  font-weight: bold;}
 }
 
 .downloads li:first-child a {
