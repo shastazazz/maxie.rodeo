@@ -6,6 +6,7 @@ layout: default
 * * *
 ![Headline of "HOW TO CHANNEL CAR ANXIETY INTO FORWARD MOMENTUM" as seen in Lurch.](../assets/img/forward_momentum_headline.png)
 [Read Here.](another-page.md)
+<a href="another-page.md">Read Here.</a>
 * * *
 <!---
 ### Small image
