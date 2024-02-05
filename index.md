@@ -2,13 +2,12 @@
 layout: default
 ---
 # Publications
-<!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
 <ul class="list-1">
   {%- for post in site.posts -%}
     <li>
         {%- if post.image -%}
-          <img src="{{- post.image | relative_url -}}" alt="">
+          <img src="{{- post.image | relative_url -}}" alt="{{ post.imagealt }}">
         {%- endif -%}
       <h2>{{ post.title }}</h2>
       <h3>
