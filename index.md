@@ -4,7 +4,8 @@ layout: default
 # Publications
 <!--- Text can be **bold**, _italic_, or ~~strikethrough~~.--->
 * * *
-<ul class="list-1">
+<div class="list-1">
+    <ul class="list-1">
     {%- for post in site.posts -%}
       <li>
         {%- if post.image -%}
@@ -21,7 +22,8 @@ layout: default
         </h3>
       </li>
       {%- endfor -%}
-</ul>
+    </ul>
+</div>
 * * *
 
 
