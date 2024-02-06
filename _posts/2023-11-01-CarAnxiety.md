@@ -9,3 +9,4 @@ categories: [Publications]
 ---
 
 Get a copy of <a href ="https://lurchzine.bigcartel.com/product/issue-02-rabbit-hole">LURCH Issue 2: _RABBIT HOLE_</a>, and hold my piece in your two hands!
+
