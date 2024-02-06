@@ -43,7 +43,7 @@ layout: default
   <button onclick="opentabs('About')"><span>About Maxie</span></button>
 </div>
 
-<div id="Publications" class="tabs,postborder">
+<div id="Publications" class="tabs">
   <ul class="list-1">
   {%- for post in site.posts -%}
     <li>
@@ -65,7 +65,7 @@ layout: default
   </ul>
 </div>
 
-<div id="Radio" style="display:none" class="tabs,postborder">
+<div id="Radio" style="display:none" class="tabs">
   <ul class="list-1">
   {%- for post in site.radio -%}
     <li>
@@ -87,7 +87,7 @@ layout: default
   </ul> 
 </div>
 
-<div id="About" style="display:none" class="tabs,postborder">
+<div id="About" style="display:none" class="tabs">
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
