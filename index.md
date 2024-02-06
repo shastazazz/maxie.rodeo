@@ -33,8 +33,6 @@ layout: default
 </ul>
 
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
-
 <div class="w3-container">
   <h2>Tabs</h2>
   <p>Tabs are perfect for single page web applications, or for web pages capable of displaying different subjects. Click on the links below.</p>
@@ -71,5 +69,3 @@ function openCity(cityName) {
   document.getElementById(cityName).style.display = "block";  
 }
 </script>
-
-</body>
