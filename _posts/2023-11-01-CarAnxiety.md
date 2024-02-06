@@ -10,4 +10,4 @@ categories: [Publications]
 
 Get a copy of <a href ="https://lurchzine.bigcartel.com/product/issue-02-rabbit-hole">LURCH Issue 2: _RABBIT HOLE_</a>, and hold my piece in your hands!
 
-<img srec="/assets/img/forward_momentum_full.png" alt="Full_Poem_Text" width="790">
+<img src="/assets/img/forward_momentum_full.png" alt="Full_Poem_Text" width="790">
