@@ -33,9 +33,9 @@ layout: default
 </ul>--->
 
 <div class="tabtitles">
-  <button onclick="opentabs('Publications')"><span>Publications</span></button>
-  <button onclick="opentabs('Radio')"><span>Radio Files</span></button>
-  <button onclick="opentabs('About')"><span>About Maxie</span></button>
+  <button class="hoverbold" onclick="opentabs('Publications')"><span>Publications</span></button>
+  <button class="hoverbold" onclick="opentabs('Radio')"><span>Radio Files</span></button>
+  <button class="hoverbold" onclick="opentabs('About')"><span>About Maxie</span></button>
 </div>
 
 <div id="Publications" class="tabs">
