@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="inline">
+<!---<div class="inline">
   <h1 class="postborder">
       Publications
   </h1>
@@ -30,7 +30,7 @@ layout: default
         </a>
     </li>
   {%- endfor -%}
-</ul>
+</ul>--->
 
 <div class="w3-container">
   <h2>Tabs</h2>
@@ -38,33 +38,66 @@ layout: default
 </div>
 
 <div>
-  <button onclick="openCity('London')">London</button>
-  <button onclick="openCity('Paris')">Paris</button>
-  <button onclick="openCity('Tokyo')">Tokyo</button>
+  <button onclick="opentabs('Publications')"><h1>Publications</h1></button>
+  <button onclick="opentabs('Radio')"><h1>Radio Files</h1></button>
+  <button onclick="opentabs('About')"><h1>About Maxie</h1></button>
 </div>
 
-<div id="London" class="city">
-  <h2>London</h2>
-  <p>London is the capital city of England.</p>
+<div id="Publications" class="tabs,postborder">
+  <ul class="list-1">
+  {%- for post in site.posts -%}
+    <li>
+      {%- if post.image -%}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{- post.image | relative_url -}}" 
+               alt="{{ post.imagealt }}" 
+               width="790"
+          >
+        </a>
+      {%- endif -%}
+        <a href="{{ post.url | relative_url }}">
+            <h2 class="postborder hoverbold">
+                {{ post.secrettitle }}
+            </h2>
+        </a>
+    </li>
+  {%- endfor -%}
+  </ul>
 </div>
 
-<div id="Paris" style="display:none" class="city">
-  <h2>Paris</h2>
-  <p>Paris is the capital of France.</p> 
+<div id="Radio" style="display:none" class="tabs,postborder">
+  <ul class="list-1">
+  {%- for post in site.radio -%}
+    <li>
+      {%- if post.image -%}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{- post.image | relative_url -}}" 
+               alt="{{ post.imagealt }}" 
+               width="790"
+          >
+        </a>
+      {%- endif -%}
+        <a href="{{ post.url | relative_url }}">
+            <h2 class="postborder hoverbold">
+                {{ post.secrettitle }}
+            </h2>
+        </a>
+    </li>
+  {%- endfor -%}
+  </ul> 
 </div>
 
-<div id="Tokyo" style="display:none" class="city">
-  <h2>Tokyo</h2>
+<div id="About" style="display:none" class="tabs,postborder">
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
 <script>
-function openCity(cityName) {
+function opentabs(tabsname) {
   var i;
-  var x = document.getElementsByClassName("city");
+  var x = document.getElementsByClassName("tabs");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  document.getElementById(cityName).style.display = "block";  
+  document.getElementById(tabsname).style.display = "block";  
 }
 </script>
