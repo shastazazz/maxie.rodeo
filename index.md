@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div class="tabtitles">
-  <button class="hoverbold" onclick="opentabs('Publications')"><span>Publications</span></button>
-  <button class="hoverbold" onclick="opentabs('Radio')"><span>Radio Files</span></button>
-  <button class="hoverbold" onclick="opentabs('About')"><span>About Maxie</span></button>
+<div class="flex-container">
+  <button class="hoverbold" onclick="opentabs('Publications')">Publications</button>
+  <button class="hoverbold" onclick="opentabs('Radio')">Radio Files</button>
+  <button class="hoverbold" onclick="opentabs('About')">About Maxie</button>
 </div>
 
 <div id="Publications" class="tabs">
