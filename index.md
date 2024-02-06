@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="flex-container">
-  <button class="hoverbold" onclick="opentabs('Publications')">Publications</button>
-  <button class="hoverbold" onclick="opentabs('Radio')">Radio Files</button>
-  <button class="hoverbold" onclick="opentabs('About')">About Maxie</button>
+  <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
+  <button class="index-nav-butts" onclick="opentabs('Radio')">Radio Files</button>
+  <button class="index-nav-butts" onclick="opentabs('About')">About Maxie</button>
 </div>
 
 <div id="Publications" class="tabs">
