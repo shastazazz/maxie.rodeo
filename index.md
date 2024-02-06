@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
-<div>
+<div class="inline">
   <h1 class="postborder">
-  Publications
+      Publications
+  </h1>
+  <h1 class="postborder">
+      Radio Files
+  </h1>
+  <h1 class="postborder">
+      About
   </h1>
 </div>
 <ul class="list-1">

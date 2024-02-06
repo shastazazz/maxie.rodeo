@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.hoverbold:hover{
+.hoverbold:hover {
     font:bold;
+}
+
+.inline {
+    display: inline-block;
 }
