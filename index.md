@@ -12,10 +12,10 @@ layout: default
   {%- for post in site.posts -%}
       {%- if post.categories contains 'Publications' -%}
         <li>
-          {%- if post.image -%}
+          {%- if post.imagehead -%}
             <a href="{{ post.url | relative_url }}">
-              <img src="{{- post.image | relative_url -}}" 
-                   alt="{{ post.imagealt }}" 
+              <img src="{{- post.imagehead | relative_url -}}" 
+                   alt="{{ post.headalt }}" 
                    width="790"
               >
             </a>
@@ -36,10 +36,10 @@ layout: default
   {%- for post in site.posts -%}
       {%- if post.categories contains 'Radio' -%}
         <li>
-          {%- if post.image -%}
+          {%- if post.imagehead -%}
             <a href="{{ post.url | relative_url }}">
-              <img src="{{- post.image | relative_url -}}" 
-                   alt="{{ post.imagealt }}" 
+              <img src="{{- post.imagehead | relative_url -}}" 
+                   alt="{{ post.headalt }}" 
                    width="790"
               >
             </a>
