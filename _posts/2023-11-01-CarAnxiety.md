@@ -16,7 +16,7 @@ This piece has previously been rejected by:
 
 ***
 
-<a href ="https://splitlipthemag.com/">Split Lip Magazine</a>
+Split Lip Magazine
 
 >_...it isn't a good fit for us at this time._
 
