@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+.hoverbold:hover{
+    font:bold;
+}

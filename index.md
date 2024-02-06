@@ -18,9 +18,9 @@ layout: default
         </a>
       {%- endif -%}
         <a href="{{ post.url | relative_url }}">
-        <h2 class="postborder">
-            {{ post.secrettitle }}
-        </h2>
+            <h2 class="postborder hoverbold">
+                {{ post.secrettitle }}
+            </h2>
         </a>
     </li>
   {%- endfor -%}
