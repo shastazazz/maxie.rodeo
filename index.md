@@ -62,11 +62,11 @@ Check back later ;D !
     Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are currently raising a clutch of sage-grouse chicks in Portland, OR, as well as attending PSU (Portland State).
 </p>
 
-<p class="stupidheader">
+<p>
     Maxwell is a poet, multimedia artist, gardener, and more.
 </p>
 
-<p>
+<p class="stupidheader">
     ABOUT MAXIE.RODEO
 </p>
 
