@@ -43,17 +43,17 @@ layout: default
   <button onclick="openCity('Tokyo')">Tokyo</button>
 </div>
 
-<div id="London">
+<div id="London" class="city">
   <h2>London</h2>
   <p>London is the capital city of England.</p>
 </div>
 
-<div id="Paris" style="display:none">
+<div id="Paris" style="display:none" class="city">
   <h2>Paris</h2>
   <p>Paris is the capital of France.</p> 
 </div>
 
-<div id="Tokyo" style="display:none">
+<div id="Tokyo" style="display:none" class="city">
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
 </div>
