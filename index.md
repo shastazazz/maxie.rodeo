@@ -37,10 +37,10 @@ layout: default
   <p>Tabs are perfect for single page web applications, or for web pages capable of displaying different subjects. Click on the links below.</p>
 </div>
 
-<div>
-  <button onclick="opentabs('Publications')"><h1>Publications</h1></button>
-  <button onclick="opentabs('Radio')"><h1>Radio Files</h1></button>
-  <button onclick="opentabs('About')"><h1>About Maxie</h1></button>
+<div class="tabtitles">
+  <button onclick="opentabs('Publications')"><span>Publications</span></button>
+  <button onclick="opentabs('Radio')"><span>Radio Files</span></button>
+  <button onclick="opentabs('About')"><span>About Maxie</span></button>
 </div>
 
 <div id="Publications" class="tabs,postborder">
