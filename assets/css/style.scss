@@ -12,6 +12,11 @@
     display: inline-block;
 }
 
+.postborder {
+  border-bottom: 2px solid #d3d3d3;
+  padding-bottom: 5px;
+}
+
 .tabtitles button {
     font-family: "Goblin One";
     font-weight:400;
@@ -23,4 +28,6 @@
     text-align: justify;
     text-decoration:none;
     cursor: pointer;
+    border-bottom: 2px solid #d3d3d3;
+    padding-bottom: 5px;
 }
