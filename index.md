@@ -4,7 +4,7 @@ layout: default
 <div class="tabtitles">
   <button class="hoverbold" onclick="opentabs('Publications')"><span>Publications</span></button>
   <button class="hoverbold" onclick="opentabs('Radio')"><span>Radio Files</span></button>
-  <button class="hoverbold" onclick="opentabs('About')"><span>About Maxie</span></button>
+  <button class="hoverbold" onclick="opentabs('About')"><span>About Max</span></button>
 </div>
 
 <div id="Publications" class="tabs">
