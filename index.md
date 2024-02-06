@@ -59,7 +59,7 @@ Check back later ;D !
 <div id="About" style="display:none" class="tabs">
 Maxwell was born in Gresham, (OR,) raised in Boise, (ID,) and now lives in Portland, Oregon.
     
-They are a poet, multimedia artist, gardener, and so much more.
+They are a poet, multimedia artist, gardener, and more.
 </div>
 
 <script>
