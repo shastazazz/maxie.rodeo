@@ -11,3 +11,13 @@ categories: [Publications]
 Get a copy of <a href ="https://lurchzine.bigcartel.com/product/issue-02-rabbit-hole">LURCH Issue 2: _RABBIT HOLE_</a>, and hold my piece in your hands!
 
 <img src="/assets/img/forward_momentum_full.png" alt="HOW-TO-CHANNEL-CAR-ANXIETY-INTO-FORWARD-MOMENTUM-as-seen-in-Lurch-Zine,-Issue-2." width="790">
+
+This piece has previously been rejected by:
+
+***
+
+<a href ="https://splitlipthemag.com/">Split Lip Magazine</a>
+
+>_...it isn't a good fit for us at this time._
+
+***
