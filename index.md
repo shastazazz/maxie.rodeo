@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="flex-container">
   <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
-  <button class="index-nav-butts" onclick="opentabs('Radio')">Radio Files</button>
+  <button class="index-nav-butts" onclick="opentabs('Blog')">Blog</button>
   <button class="index-nav-butts" onclick="opentabs('About')">About Maxie</button>
 </div>
 
@@ -31,11 +31,11 @@ layout: default
   </ul>
 </div>
 
-<div id="Radio" style="display:none" class="tabs">
+<div id="Blog" style="display:none" class="tabs">
 Check back later ;D !
   <ul class="list-1">
   {%- for post in site.posts -%}
-      {%- if post.categories contains 'Radio' -%}
+      {%- if post.categories contains 'Blog' -%}
         <li>
           {%- if post.imagehead -%}
             <a href="{{ post.url | relative_url }}">
