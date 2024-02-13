@@ -65,12 +65,10 @@ Check back later ;D !
 <p>
     Maxwell is a poet, multimedia artist, gardener, and more.
 </p>
-    
+
+<p></p><p></p><!---this is four lines of blank space---><p></p><p></p>
+
 <p class="stupidheader">
-    &emsp;
-    &emsp;
-    &emsp;
-    &emsp;
     ABOUT MAXIE.RODEO
 </p>
 
