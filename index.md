@@ -65,13 +65,17 @@ Check back later ;D !
 <p>
     Maxwell is a poet, multimedia artist, gardener, and more.
 </p>
-
+    <space>
+    <space>
+    <space>
+    <space>
 <p class="stupidheader">
+
     ABOUT MAXIE.RODEO
 </p>
 
 <p>
-    Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. I'm <em>bragging</em> about these rejections. They're proof I've put myself out there, and that publications aren't always a one-and-done process.
+    Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. Rejections are proof I've put myself out there, and that publications aren't always a one-and-done process.
 </p>
 
 
