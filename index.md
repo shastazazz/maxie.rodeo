@@ -63,7 +63,7 @@ Check back later ;D !
 </p>
 
 <p>
-    Maxwell is a poet, multimedia artist, gardener, and more.
+    Maxwell is a poet, multimedia artist, gardener, (a bad coder, re: this site,) and more!
 </p>
 
 <p>&emsp;</p><p>&emsp;</p><!---this is four lines of blank space---><p>&emsp;</p><p>&emsp;</p>
@@ -73,12 +73,19 @@ Check back later ;D !
 </p>
 
 <p>
+    The site's headline/return button reads: "MY OWN PRIVATE IDAHO". Yes, this is a reference to the Gus Van Sant film of the same name. (Shot entirely outside of Idaho, I might add.) I (Maxwell) no longer live in Idaho, and so this page is my little slice of old-home. It's a website on the internet, so it's both not really anywhere, and also everywhere. To me, the site is hosted in the mycorrhizae beneath the Arco desert. Or it's torrented from the Owyhees. Maybe it's frolicking naked in the Sawtooths. Regardless, I like to think of this site as my own private Idaho. 
+</p>
+
+<p>
     Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. Rejections are proof I've put myself out there, and that publications aren't always a one-and-done process.
 </p>
 
-
 <p>
     This page was forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. It is being updated and managed by Maxwell Kline.
+</p>
+
+<p>
+    All copyright belongs to Maxwell, unless I (Maxwell) state otherwise.
 </p>
 
 </div>
