@@ -63,7 +63,7 @@ Check back later ;D !
 </p>
 
 <p>
-    Maxwell is a poet, multimedia artist, gardener, (a bad coder, re: this site,) and more!
+    Maxwell is a poet, multimedia artist, gardener, a bad coder (re: this site), and more!
 </p>
 
 <p>&emsp;</p><p>&emsp;</p><!---this is four lines of blank space---><p>&emsp;</p><p>&emsp;</p>
