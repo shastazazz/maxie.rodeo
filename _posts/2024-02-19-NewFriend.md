@@ -7,7 +7,9 @@ headalt: "Several yellow flowers on a branch of Witch Hazel. The middle flower i
 date: 2024-02-19
 categories: [Blog]
 ---
-I adapted this from Björk's <a href="https://www.youtube.com/watch?v=gE2-vfA_hs8">"Sun in My Mouth"</a> off of her 2001 album, Vespertine. That song itself, is based off of E.E. Cummings' poem <a href="https://poets.org/poem/crepuscule">"Crepuscule"</a>.  
+I adapted this from Björk's "<a href="https://www.youtube.com/watch?v=gE2-vfA_hs8">Sun in My Mouth</a>," off of her 2001 album, _Vespertine_. "Sun in My Mouth", is in turn based off of E.E. Cummings' poem, "<a href="https://poets.org/poem/crepuscule">Crepuscule</a>".  
+  
+<img src="/assets/img/nostromo_full.png" alt="Nostromo-as-seen-in-Lurch-Zine,-Issue-2." width="790">
   
 For my new friend:  
   
