@@ -2,6 +2,8 @@
 layout: blog
 title: "Poem For My New Friend"
 secrettitle: "Poem For My New Friend"
+imagehead: /assets/img/witch_hazel.png
+headalt: "Several yellow flowers on a branch of Witch Hazel. The middle flower is the only one in-focus."
 date: 2024-02-19
 categories: [Blog]
 ---
