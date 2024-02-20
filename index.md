@@ -62,7 +62,7 @@ layout: default
 </p>
 
 <p>
-    Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more!
+    Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to my email, at the left of this page (or bottom, if you're on mobile).
 </p>
 
 <p>&emsp;</p><p>&emsp;</p><!---this is four lines of blank space---><p>&emsp;</p><p>&emsp;</p>
