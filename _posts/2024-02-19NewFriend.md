@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "Poem For My New Friend"
 secrettitle: "Poem For My New Friend"
 imagehead: 

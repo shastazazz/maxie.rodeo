@@ -32,7 +32,6 @@ layout: default
 </div>
 
 <div id="Blog" style="display:none" class="tabs">
-Check back later ;D !
   <ul class="list-1">
   {%- for post in site.posts -%}
       {%- if post.categories contains 'Blog' -%}
