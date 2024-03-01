@@ -80,7 +80,7 @@ layout: default
 </p>
 
 <p>
-    This page was forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. It is being updated and managed by Maxwell Kline.
+    This page was forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. The fonts used are <a href="https://fonts.google.com/specimen/Goblin+One?query=goblin+one">Goblin One</a>, by Riccardo De Franceschi, and <a href="https://fonts.google.com/specimen/Poltawski+Nowy">Półtawski Nowy</a>, by Adam Półtawski, Mateusz Machalski, Borys Kosmynka, and Ania Wieluńska. "maxie.rodeo" is being updated and managed by Maxwell Kline.
 </p>
 
 <p>
