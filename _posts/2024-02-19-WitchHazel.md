@@ -21,7 +21,7 @@ fingers of smooth mastery
 complete  
 the mystery of my flesh  
 
-(An edit of all three pieces from my radio show, the Pointless Forest, on KPSU:)
+(An edit of all three pieces from my radio show, _The Pointless Forest_, on KPSU:)
 <audio controls>
   <source src="/assets/audio/cummingsbjorkkline.ogg" type="audio/ogg">
   <source src="/assets/audio/cummingsbjorkkline.mp3" type="audio/mpeg">
