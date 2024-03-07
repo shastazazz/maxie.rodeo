@@ -11,7 +11,7 @@ categories: [Blog]
 <div>
     <table cellspacing="20">
         <tr>
-          <td>
+          <td class="closereadjust">
             <p class="closereadjust">Along the western slopes of the Oregon Coastal Range . . .  
             come look: the hysterical crashing of tributaries as they 
             merge into the Wakonda Auga River . . .</p>
