@@ -65,15 +65,13 @@
     padding-bottom:5px;
 }
 
-.closeread {
+.closereadright {
     font-family: "Poltawski-Nowy";
         font-weight: 400;
-        font-style: italic;
-    color: #494949;
-    border-left:1px solid #e5e5e5;
+        font-style:normal;
+    color: #000;
     border-bottom:0px;
-    margin:0;
-    padding:0 0 0 20px;
+    float: right;
 }
 
 .closereadjust {
