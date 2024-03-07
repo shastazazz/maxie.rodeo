@@ -112,6 +112,7 @@ categories: [Blog]
             <i>Just</i> isolates images, and the parentheses surrounding these image fragments become a magnifying lens.
         </p>
         <p>&emsp;</p>
+        <p>&emsp;</p>
     </div>
 </div>
 <div>
