@@ -9,7 +9,7 @@ categories: [Blog]
 ---
 
 <div>
-    <table class="closetablejust">
+    <table class="closereadjust">
         <tr>
           <td>
             <p class="closereadjust">
