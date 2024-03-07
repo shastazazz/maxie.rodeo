@@ -85,7 +85,7 @@ categories: [Blog]
         <p>
             Repetition of rain provides a larger quantity, as well as places the reader first in the interior experiential perspective, and then the exterior.
         </p>
-        <p>&emsp;</p><!---this is three lines of blank space---><p>&emsp;</p><p>&emsp;</p>
+        <p>&emsp;</p>
     </div>
 </div>
 <div>
@@ -110,7 +110,7 @@ categories: [Blog]
         <p>
             <i>Just</i> isolates images, and the parentheses surrounding these image fragments become a magnifying lens.
         </p>
-        <p>&emsp;</p><!---this is three lines of blank space---><p>&emsp;</p><p>&emsp;</p>
+        <p>&emsp;</p>
     </div>
 </div>
 <div>
