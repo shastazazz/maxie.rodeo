@@ -97,3 +97,16 @@ categories: [Blog]
         </p>
     </div>
 </div>
+<div>
+    <div class="closereadjust">
+        Twisting and stopping and slowly untwisting in the gust- ing rain, eight or ten feet above the flood’s current, a human arm, tied at the wrist, (just the arm; look) disappearing downward at the frayed shoulder where an invisible dancer performs twisting pirouettes for an enthralled audience  (just the arm, turning there, above the water) . . . for the dogs on the bank, for the blinking rain, for the smoke, the house, the trees, and the crowd calling angrily from across the river, “Stammmper! Hey, goddam you anyhow, Hank Stammmmmper!”
+    </div>
+    <div class="closereadright">
+        <p>
+            This is the last full stanza, and the longest running-line.
+        </p>
+        <p>
+            <i>Just</i> isolates images, and the parentheses surrounding these image fragments become a magnifying lens.
+        </p>
+    </div>
+</div>
