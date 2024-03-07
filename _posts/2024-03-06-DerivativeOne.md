@@ -11,7 +11,7 @@ categories: [Blog]
 <div>
     <table cellspacing="20">
         <tr>
-          <td border-bottom:0px>
+          <td>
             <p class="closereadjust">
             Along the western slopes of the Oregon Coastal Range . . .  
             come look: the hysterical crashing of tributaries as they 
