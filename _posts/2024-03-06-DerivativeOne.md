@@ -9,11 +9,15 @@ categories: [Blog]
 ---
 
 <div>
-    <div>
-        <p class="closereadjust">Along the western slopes of the Oregon Coastal Range . . .  
-        come look: the hysterical crashing of tributaries as they 
-        merge into the Wakonda Auga River . . .</p>
-    </div>
+    <table cellspacing="20">
+        <tr>
+          <td>
+            <p class="closereadjust">Along the western slopes of the Oregon Coastal Range . . .  
+            come look: the hysterical crashing of tributaries as they 
+            merge into the Wakonda Auga River . . .</p>
+          </td>
+        </tr>
+    </table>
     <div>
         <p>Kesey’s opening line is scene setting; this one line sums up the piece.</p>
         <p>With come look: Kesey uses second person to invite the reader in, placing the reader physically over the Wakonda.</p>
