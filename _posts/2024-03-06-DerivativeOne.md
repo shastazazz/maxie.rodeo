@@ -16,6 +16,6 @@ categories: [Blog]
     </div>
     <div class="closereadright">
         <p>Kesey’s opening line is scene setting; this one line sums up the piece.</p>
-        <p>With <i>come look:</i> Kesey uses second person to invite the reader in, placing the reader physically over the Wakonda.</p>
+        <p><i>Come look:</i> is both an invitation and a placement; we are now inside, overlooking the <i>Wakonda Auga River</i>.</p>
     </div>
 </div>
