@@ -2,6 +2,7 @@
 layout: blog
 title: "Derivative One: Kesey-Kline"
 secrettitle: "Derivative One"
+subtitle: "Defining “running-lines” within a close reading of Ken Kesey’s <i>Sometimes a Great Notion</i>:"
 imagehead: 
 headalt: 
 date: 2024-03-06
