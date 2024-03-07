@@ -15,7 +15,7 @@ categories: [Blog]
             merge into the Wakonda Auga River . . .
     </div>
     <div class="closereadright">
-        <p>Kesey’s opening line is scene setting; this one line sums up the piece.</p>
+        <p>Kesey’s opening line is scene setting; a summation.</p>
         <p><i>Come look:</i> is both an invitation and a placement; we are now inside, overlooking the <i>Wakonda Auga River</i>.</p>
     </div>
 </div>
