@@ -9,14 +9,12 @@ categories: [Blog]
 ---
 
 <div>
-    <table class="closereadjust">
+    <table class="closetablejust">
         <tr>
-          <td>
-            <p class="closereadjust">
+          <td class="closereadjust">
             Along the western slopes of the Oregon Coastal Range . . .  
             come look: the hysterical crashing of tributaries as they 
             merge into the Wakonda Auga River . . .
-            </p>
           </td>
         </tr>
     </table>
