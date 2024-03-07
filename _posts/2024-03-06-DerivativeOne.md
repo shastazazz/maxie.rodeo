@@ -77,3 +77,13 @@ categories: [Blog]
         </p>
     </div>
 </div>
+<div>
+    <div class="closereadjust">
+        Rain drifts about the windows. Rain filters through a haze of yellow smoke issuing from a mossy-stoned chimney into slanting sky. The sky runs gray, the smoke wet-yellow. Behind the house, up in the shaggy hem of mountainside, these colors mix in windy distance, making the hillside itself run a muddy green.
+    </div>
+    <div class="closereadright">
+        <p>
+            Repetition of rain provides a larger quantity, as well as places the reader first in the interior experiential perspective, and then the exterior.
+        </p>
+    </div>
+</div>
