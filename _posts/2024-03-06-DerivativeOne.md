@@ -85,7 +85,7 @@ categories: [Blog]
         <p>
             Repetition of rain provides a larger quantity, as well as places the reader first in the interior experiential perspective, and then the exterior.
         </p>
-        <p>&emsp;</p><p>&emsp;</p><!---this is four lines of blank space---><p>&emsp;</p><p>&emsp;</p>
+        <p>&emsp;</p><!---this is two lines of blank space---><p>&emsp;</p>
     </div>
 </div>
 <div>
@@ -96,6 +96,7 @@ categories: [Blog]
         <p>
             Kesey relies heavily on “running-lines;” a deft movement of words that pulls the reader along and through a scene without feeling the longness of the sentence. This whole stanza is one line, and one fluid moment.        
         </p>
+        <p>&emsp;</p>
     </div>
 </div>
 <div>
@@ -104,7 +105,7 @@ categories: [Blog]
     </div>
     <div class="closereadright">
         <p>
-            This is the last full stanza, and the longest running-line.
+            This is the last multi-line stanza, and the longest running-line.        
         </p>
         <p>
             <i>Just</i> isolates images, and the parentheses surrounding these image fragments become a magnifying lens.
