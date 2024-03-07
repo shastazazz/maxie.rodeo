@@ -9,8 +9,8 @@ categories: [Blog]
 ---
 
 <div>
-    <div class="closereadjust">
-        <p>Along the western slopes of the Oregon Coastal Range . . .  
+    <div>
+        <p class="closereadjust">Along the western slopes of the Oregon Coastal Range . . .  
         come look: the hysterical crashing of tributaries as they 
         merge into the Wakonda Auga River . . .</p>
     </div>
