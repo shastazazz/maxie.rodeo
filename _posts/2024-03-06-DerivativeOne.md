@@ -64,3 +64,16 @@ categories: [Blog]
         </p>
     </div>
 </div>
+<div>
+    <div class="closereadjust">
+        The highway follows its northern bank, the ridges follow its southern. No bridges span its first ten miles. And yet, across, on that southern shore, an ancient two-story wood- frame house rests on a structure of tangled steel, of wood and earth and sacks of sand, like a two-story bird with split- shake feathers, sitting fierce in its tangled nest. Look . . .
+    </div>
+    <div class="closereadright">
+        <p>
+            Short lines are followed by long running-lines describing the Stamper house; the volume of text elevates the importance of the <i>ancient wood-frame house</i> from place to character.        
+        </p>
+        <p>
+            Kesey also pursues further merger of human constructs and the “natural” with: <i>of tangled steel, of wood and earth</i> and <i>like a two-story bird with split-shake feathers</i>.
+        </p>
+    </div>
+</div>
