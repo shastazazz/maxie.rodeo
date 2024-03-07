@@ -9,7 +9,7 @@ categories: [Blog]
 ---
 
 <div>
-    <table cellspacing="20">
+    <table cellspacing="20", class="closetablejust">
         <tr>
           <td>
             <p class="closereadjust">
