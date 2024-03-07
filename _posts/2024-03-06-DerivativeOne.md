@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Derivative One"
+title: "DERIVATIVE ONE: KESEY-KLINE"
 secrettitle: "Derivative One"
 imagehead: 
 headalt: 
