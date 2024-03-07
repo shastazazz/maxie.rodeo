@@ -87,3 +87,13 @@ categories: [Blog]
         </p>
     </div>
 </div>
+<div>
+    <div class="closereadjust">
+        On the naked bank between the yard and humming river’s edge, a pack of hounds pads back and forth, whim- pering with cold and brute frustration, whispering and barking at an object that dangles out of their reach, over the water, twisting and untwisting, swaying stiffly at the end of a line tied to the tip of a large fir pole . . . jutting out of a top-story window.    
+    </div>
+    <div class="closereadright">
+        <p>
+            Kesey relies heavily on “running-lines;” a deft movement of words that pulls the reader along and through a scene without feeling the longness of the sentence. This whole stanza is one line, and one fluid moment.        
+        </p>
+    </div>
+</div>
