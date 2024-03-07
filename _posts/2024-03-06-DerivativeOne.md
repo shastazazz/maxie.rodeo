@@ -111,3 +111,16 @@ categories: [Blog]
         </p>
     </div>
 </div>
+<div>
+    <div class="closereadjust">
+        And for anyone else who might care to look.
+    </div>
+    <div class="closereadright">
+        <p>
+            Kesey begins this stanza with the word <i>And</i> which builds continuation off of the previous imagery, he also separates the two portions with capitalization, line break, and indentation. 
+        </p>
+        <p>
+            <i>And</i> becomes an unorthodox beginning point for a sentence, (one grammatically correct, but infrequent in written “professional” texts,) creating both a bridging effect and a familiar spoken-word cadence.
+        </p>
+    </div>
+</div>
