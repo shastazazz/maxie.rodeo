@@ -2,7 +2,7 @@
 layout: blog
 title: "Derivative One: Kesey-Kline"
 secrettitle: "Derivative One"
-subtitle: "Defining “running-lines” within a close reading of Ken Kesey’s <i>Sometimes a Great Notion</i>:"
+subtitle: "Defining “running-lines” within a close reading of the opening to Ken Kesey’s <i>SOMETIMES A GREAT NOTION</i>:"
 imagehead: /assets/img/sometimes_a_great_notion.png
 headalt: "The words 'in Sometimes a Great Notion' juxtuposed over the fictional Wakonda Auga River from the title cards to the film."
 date: 2024-03-06
