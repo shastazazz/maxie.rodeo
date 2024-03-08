@@ -133,3 +133,8 @@ categories: [Blog]
         </p>
     </div>
 </div>
+        <p>&emsp;</p>
+        <p>&emsp;</p>
+        <p>
+            To continue this derivative, I have a piece forthcoming in the next issue of <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, "<a href="https://www.buckmanjournal.com/submissions">Gorge</a>," which should drop July 2024. This piece, entitled <b>HAIL COLUMBIA!</b>, relies heavily on running-lines, and follows many of the ideas I've attempted to underscore in this article. I'll be sharing my piece here on maxie.rodeo after Gorge is released, and may continue to update this page as more thoughts surface on <i>SOMETIMES A GREAT NOTION</i>. Also look forward to more definition surrounding my use of the word "derivative," as this is a topic of which I am engrossed.
+        </p>
