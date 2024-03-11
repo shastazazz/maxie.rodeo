@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="flex-container">
   <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
-  <button class="index-nav-butts" onclick="opentabs('Stream')">Down Stream</button>
-  <button class="index-nav-butts" onclick="opentabs('About')">About Maxie</button>
+  <button class="index-nav-butts" onclick="opentabs('Stream')">Downstream</button>
+  <button class="index-nav-butts" onclick="opentabs('About')">About</button>
 </div>
 
 <div id="Publications" class="tabs">
