@@ -1,11 +1,11 @@
 ---
-layout: blog
+layout: stream
 title: "Witch Hazel"
 secrettitle: "Witch Hazel"
 imagehead: /assets/img/witch_hazel.png
 headalt: "Several yellow flowers on a branch of Witch Hazel. The middle flower is the only one in-focus."
 date: 2024-02-19
-categories: [Blog]
+categories: [Stream]
 ---
 I adapted this from Björk's "<a href="https://www.youtube.com/watch?v=UhYZXhYIZ3Q">Sun in My Mouth</a>," off of her 2001 album, _Vespertine_. "Sun in My Mouth", is in turn based off of E.E. Cummings' poem, "<a href="https://poets.org/poem/crepuscule">Crepuscule</a>".  
   
