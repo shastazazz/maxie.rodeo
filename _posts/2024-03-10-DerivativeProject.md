@@ -22,7 +22,8 @@ categories: [Stream]
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-rate of change, tracking change, experiential change, cyclicity</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-how much does something change (by/for/etc.?)</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-how much does change, change?</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-as my fellow barnstormer heather says: sine → cosine → –sine → –cosine → back to sine (ad infinitum: cyclicity)</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-as my fellow Barnstormer, Heather says:</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-sine → cosine → negative sine → negative cosine → back to sine (ad infinitum: cyclicity)</p>
     <p>&emsp;</p>
     <h3><i>DERIVATIVES:</i></h3>
     <p>-this project!</p>
