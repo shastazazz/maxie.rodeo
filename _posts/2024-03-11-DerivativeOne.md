@@ -5,7 +5,7 @@ secrettitle: "Derivative One"
 subtitle: "Defining “running-lines” within a close reading of the opening to Ken Kesey’s <i>SOMETIMES A GREAT NOTION</i>:"
 imagehead: /assets/img/sometimes_a_great_notion.png
 headalt: "The words 'in Sometimes a Great Notion' juxtuposed over the fictional Wakonda Auga River from the title cards to the film."
-date: 2024-03-06
+date: 2024-03-11
 categories: [Stream]
 ---
 
@@ -30,7 +30,7 @@ categories: [Stream]
     </div>
     <div class="closereadright">
         <p>
-            Here Kesey builds out the river, forming it line by line for the reader.
+            Kesey builds out the river, forming it line by line for the reader.
         </p>
         <p>
             By using place-based vocabulary, (<i>ghost-fern</i>, <i>bearberry</i>, <i>silver spruce</i>, <i>douglas fir</i>, etc.,) Kesey denotes the PNW, and writes his fictional river into a reality that western America will recognize with familiarity, and the rest of the world can picture.
