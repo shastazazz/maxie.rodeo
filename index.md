@@ -85,7 +85,7 @@ layout: default
     <div>
 <h3>Publications</h3>
 <p>
-    This tab is dedicated to selected publications. 
+    This tab is dedicated to a selection of publications I am particularly proud of and want to keep available. I will update it as new pieces are accepted and released into the wider world.
 </p>
 <p>
     Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. Rejections are proof I've put myself out there, and that publications aren't always a one-and-done process.
@@ -94,6 +94,7 @@ layout: default
     <div>
 <h3>Downstream</h3>
 <p>
+    I imagine this tab as an outflowing of rants, ravings, thoughts, and ideas. Some downstreams will be in-progress, and some will be complete. I plan on posting future collaborations, projects, and whatever else the future might hold. (But never NFTs, this site is anti-NFT!)
 </p>
     </div>
     <div>
@@ -102,7 +103,7 @@ layout: default
     This page was forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. The fonts used are <a href="https://fonts.google.com/specimen/Goblin+One?query=goblin+one">Goblin One</a>, by Riccardo De Franceschi, and <a href="https://fonts.google.com/specimen/Poltawski+Nowy">Półtawski Nowy</a>, by Adam Półtawski, Mateusz Machalski, Borys Kosmynka, and Ania Wieluńska. "maxie.rodeo" is being updated and managed by Maxwell Kline.
 </p>
 <p>
-    All copyright belongs to Maxwell, unless I (Maxwell) state otherwise.
+    All copyright belongs to Maxwell, unless I (Maxwell) state otherwise (or in a siuation where that statement is just outright untrue ;D ). Through the lens of derivatives, I am heavily considering the ethics of copyright. Expect changes on that front.
 </p>
     </div>
     </div>
