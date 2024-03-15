@@ -57,6 +57,11 @@ layout: default
 
 <div id="About" style="display:none" class="tabs">
     <div>
+                <p>&emsp;</p>
+<p class="stupidheader">
+    ABOUT MAXWELL KLINE
+</p>
+                <p>&emsp;</p>
 <p>
     Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are currently raising a clutch of sage-grouse chicks in Portland, OR, as well as attending PSU (Portland State).
 </p>
@@ -64,11 +69,12 @@ layout: default
     Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to my email, at the left of this page (or bottom, if you're on mobile).
 </p>
     </div>
-<p>&emsp;</p><p>&emsp;</p><!---this is four lines of blank space---><p>&emsp;</p><p>&emsp;</p>
+                <p>&emsp;</p>
     <div>
 <p class="stupidheader">
     ABOUT MAXIE.RODEO
 </p>
+                <p>&emsp;</p>
     <div>
 <h3>MY OWN PRIVATE IDAHO</h3>
 <p>
