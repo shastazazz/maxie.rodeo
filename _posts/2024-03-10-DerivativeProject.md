@@ -14,5 +14,5 @@ categories: [Stream]
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whether recognized or not, all writing/work/movement/expression is derivative. Derivatives are a recognition that <i>new work</i> does not exist. Derivatives study rate of change; tracking how much/fast, why, for, etc. Derivatives are often representative of cyclicity.</p>
     <p>&emsp;</p>
     <h1><i>DERIVATIVES:</i></h1>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What will follow downstream (both via the tab on this website, and perhaps through future non-digital media) are earmarks and followings of thought, a series of source materials, close readings, examinations, and derivatives (and derivatives of derivatives). I am seeking to create and elaborate through derivative processes. I entertain copyright, but invite and welcome further derivatives.</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What will follow downstream (both via the tab on this website, and perhaps through future non-digital media) are earmarks and followings of thought, a series of source materials, close readings, examinations, and derivatives (and derivatives of derivatives). I am seeking to create and elaborate through derivative processes. I invite and welcome further derivatives.</p>
 </div>
