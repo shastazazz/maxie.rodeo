@@ -56,6 +56,7 @@ layout: default
 </div>
 
 <div id="About" style="display:none" class="tabs">
+                <p>&emsp;</p>
     <div>
 <h1>
     About Maxwell Kline
@@ -65,6 +66,9 @@ layout: default
 </p>
 <p>
     Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to my email, at the left of this page (or bottom, if you're on mobile).
+</p>
+<p>
+    I have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, "<a href="https://www.buckmanjournal.com/submissions">Gorge</a>," entitled "HAIL COLUMBIA!" Expect this piece sometime in July!
 </p>
     </div>
                 <p>&emsp;</p>
@@ -81,11 +85,16 @@ layout: default
     <div>
 <h3>Publications</h3>
 <p>
+    This tab is dedicated to selected publications. 
+</p>
+<p>
     Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. Rejections are proof I've put myself out there, and that publications aren't always a one-and-done process.
 </p>
     </div>
     <div>
 <h3>Downstream</h3>
+<p>
+</p>
     </div>
     <div>
 <h3>About</h3>
