@@ -68,7 +68,7 @@ layout: default
     Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to my email, at the left of this page (or bottom, if you're on mobile).
 </p>
 <p>
-    I have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, "<a href="https://www.buckmanjournal.com/submissions">Gorge</a>," entitled "HAIL COLUMBIA!" Expect this piece sometime in July!
+    They have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, entitled "HAIL COLUMBIA!" Expect this piece sometime in July!
 </p>
     </div>
                 <p>&emsp;</p>
