@@ -85,7 +85,7 @@ layout: default
     <div>
 <h3>Publications</h3>
 <p>
-    This tab is dedicated to a selection of publications I am particularly proud of and want to make available. I will update it as new pieces are accepted and released into the wider world.
+    This tab is dedicated to a selection of publications I am particularly proud of and want to make available. It will update as new pieces are accepted and released into the wider world.
 </p>
 <p>
     Beneath each publication scan, I have listed rejection notices and their corresponding publications. This is a way of reclaiming the anxiety around rejections, and the submission process as a whole. Rejections are proof I've put myself out there, and that publications aren't always a one-and-done process.
