@@ -61,7 +61,7 @@ layout: default
 <h1>
     About Maxwell Kline
 </h1>
-<video controls autoplay class="media">
+<video autoplay width="33%">
   <source src="/assets/video/super8unedited.gif" type="video/gif">
   <source src="/assets/video/super8unedited.mp4" type="video/mp4">
 Your browser does not support the video element.
