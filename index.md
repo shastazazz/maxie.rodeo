@@ -70,7 +70,9 @@ layout: default
         </video>
     </div>
     <div>
-        (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
+        <p>
+            (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
+        </p>
     </div>
 </div>
 <p>
