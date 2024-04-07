@@ -63,7 +63,7 @@ layout: default
 </h1>
 <div class="gifflex">
     <div>
-        <video autoplay loop>
+        <video autoplay loop class="gifwidth">
             <source src="/assets/video/super8unedited.gif" type="video/gif">
             <source src="/assets/video/super8unedited.mp4" type="video/mp4">
             Your browser does not support the video element.
