@@ -69,7 +69,7 @@ layout: default
             Your browser does not support the video element.
         </video>
     </div>
-    <div>
+    <div class="gifwidth">
         <p>
             (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
         </p>
