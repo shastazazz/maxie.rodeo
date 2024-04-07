@@ -88,12 +88,12 @@
 }
 
 .gifflex {
+    float: right;
     display: flex;
     flex-direction: column;
         font-size: 10px;
         font-style: italic;
     padding: 0 0 20px 20px;
-    float: right;
 }
 
 .gifwidth {
