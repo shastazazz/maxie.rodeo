@@ -61,14 +61,18 @@ layout: default
 <h1>
     About Maxwell Kline
 </h1>
-<p class="gifselfie">
-    <video autoplay loop width="50%">
-        <source src="/assets/video/super8unedited.gif" type="video/gif">
-        <source src="/assets/video/super8unedited.mp4" type="video/mp4">
-        Your browser does not support the video element.
-    </video>
-    (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
-</p>
+<div class="gifflex">
+    <div>
+        <video autoplay loop width="50%">
+            <source src="/assets/video/super8unedited.gif" type="video/gif">
+            <source src="/assets/video/super8unedited.mp4" type="video/mp4">
+            Your browser does not support the video element.
+        </video>
+    </div>
+    <div>
+        (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
+    </div>
+</div>
 <p>
     Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are currently raising a clutch of sage-grouse chicks in Portland, OR, as well as attending PSU (Portland State).
 </p>

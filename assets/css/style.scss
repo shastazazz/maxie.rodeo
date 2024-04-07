@@ -87,16 +87,14 @@
     padding:0 0 0 20px;
 }
 
-.gifselfie {
+.gifflex {
+    display: flex;
+    flex-direction: column;
         font-size: 10px;
         font-style: italic;
     padding: 0 0 20px 20px;
     float: right;
     width: 50%;
-}
-
-.gifbullshit {
-    width: inherit
 }
 .siteheader {
     text-align: justify-all;
