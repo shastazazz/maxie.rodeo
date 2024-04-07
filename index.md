@@ -63,13 +63,13 @@ layout: default
 </h1>
 <div class="gifflex">
     <div>
-        <video autoplay loop class="gifwidth">
+        <video autoplay loop>
             <source src="/assets/video/super8unedited.gif" type="video/gif">
             <source src="/assets/video/super8unedited.mp4" type="video/mp4">
             Your browser does not support the video element.
         </video>
     </div>
-    <div class="gifwidth">
+    <div>
         <p>
             (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
         </p>
