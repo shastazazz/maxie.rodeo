@@ -71,7 +71,7 @@ layout: default
     </div>
     <div>
         <p>
-            <i>(Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)</i>
+            <i>(Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a> [aka Deb Sicko]. All rights belong to Deb!)</i>
         </p>
     </div>
 </div>
