@@ -62,14 +62,14 @@ layout: default
     About Maxwell Kline
 </h1>
 <div class="gifflex">
-    <div>
+    <div class="gifitem">
         <video autoplay loop>
             <source src="/assets/video/super8unedited.gif" type="video/gif">
             <source src="/assets/video/super8unedited.mp4" type="video/mp4">
             Your browser does not support the video element.
         </video>
     </div>
-    <div>
+    <div class="gifitem">
         <p>
             (Above Super 8 video of Maxwell is courteous of multimedia artist <a href="http://instagram.com/_u/deb.is.sick/">Deb Seitz</a>. All rights belong to Deb!)
         </p>
