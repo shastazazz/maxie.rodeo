@@ -62,7 +62,7 @@ layout: default
     About Maxwell Kline
 </h1>
 <p class="gifselfie">
-    <video autoplay loop>
+    <video autoplay loop class="gifselfie">
         <source src="/assets/video/super8unedited.gif" type="video/gif">
         <source src="/assets/video/super8unedited.mp4" type="video/mp4">
         Your browser does not support the video element.
