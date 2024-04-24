@@ -1,6 +1,6 @@
 ---
 layout: stream
-title: "Jastrzębowski's <i>AN OUTLINE OF ERGONOMICS</i>"
+title: "<i>AN OUTLINE OF ERGONOMICS</i>"
 secrettitle: "The Original Work on Ergonomics"
 subtitle: "<i>Or THE SCIENCE OF WORK based upon the truths drawn from the Science of Nature</i>"
 imagehead: /assets/img/ergonomics_headline.png
