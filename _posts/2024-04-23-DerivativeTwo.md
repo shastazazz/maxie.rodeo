@@ -2,7 +2,8 @@
 layout: stream
 title: "<i>AN OUTLINE OF ERGONOMICS</i>"
 secrettitle: "The Original Work on Ergonomics"
-subtitle: "<i>Or THE SCIENCE OF WORK based upon the truths drawn from the Science of Nature</i>"
+subtitle: "<i>or THE SCIENCE OF WORK 
+based upon the truths drawn from the Science of Nature</i>"
 imagehead: /assets/img/ergonomics_headline.png
 headalt: "AN OUTLINE OF ERGONOMICS"
 date: 2024-04-23
