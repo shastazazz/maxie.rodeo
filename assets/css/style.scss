@@ -48,6 +48,13 @@
     justify-content: space-between;
 }
 
+.list-1 {
+    margin-left:0;
+    padding-left:0;
+    margin-bottom:20px;
+    list-style-type:none;
+}
+
 @media (max-width: 800px) {
   .flex-container {
     flex-direction: column;
