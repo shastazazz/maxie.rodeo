@@ -79,10 +79,10 @@ layout: default
     Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are currently raising a clutch of sage-grouse chicks in Portland, OR, as well as attending PSU (Portland State).
 </p>
 <p>
-    Maxwell is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to my email, at the left of this page (or bottom, if you're on mobile).
-</p>
+    Maxie is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to their email, at the left of this page (or bottom, if you're on mobile).
+</p>        
 <p>
-    They have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, entitled "HAIL COLUMBIA!" Expect this piece sometime in July!
+    Maxwell has previously been published in Pathos litmag, Lurch Zine, and they also have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/book-store/p/buckman-journal-gorge">Buckman Journal</a></i>, entitled "HAIL COLUMBIA!" Expect this piece sometime in July! (It's available on pre-order right now!)
 </p>
     </div>
                 <p>&emsp;</p>
