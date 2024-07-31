@@ -56,12 +56,14 @@ layout: default
 </div>
 
 <div id="Gallery" style="display:none" class="tabs">
-    <div class="gallery">
-        <a><img src="assets/gal/Joan_of_Arc_Albert_Lynch.png"></a>
-        <a><img src="assets/gal/Joan_of_Arc_Albert_Lynch_Close.png"></a>
-        <a><img src="assets/gal/The_Death_of_Adonis_Giuseppe_Mazzuoli.png"></a>
-        <a><img src="assets/gal/merged.png"></a>
-    </div>
+    <ul class=".galul">
+        <li class=".galli">
+            <img class=".galimg" src="assets/gal/Joan_of_Arc_Albert_Lynch.png" alt="Test" loading="lazy">
+            <img class=".galimg" src="assets/gal/Joan_of_Arc_Albert_Lynch_Close.png" alt="Test" loading="lazy">
+            <img class=".galimg" src="assets/gal/The_Death_of_Adonis_Giuseppe_Mazzuoli.png" alt="Test" loading="lazy">
+            <img class=".galimg" src="assets/gal/merged.png" alt="Test" loading="lazy">
+        </li>
+    </ul>
 </div>
 
 <div id="About" style="display:none" class="tabs">
