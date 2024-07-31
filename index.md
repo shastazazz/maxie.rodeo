@@ -55,6 +55,23 @@ layout: default
   </ul> 
 </div>
 
+<div id="Gallery" style="display:none" class="tabs">
+    <div class="row">
+        <div class="column">
+            <img src="assets/gal/Joan_of_Arc_Albert_Lynch.png">
+        </div>
+        <div class="column">
+            <img src="assets/gal/Joan_of_Arc_Albert_Lynch_Close.png">
+        </div>
+        <div class="column">
+            <img src="assets/gal/The_Death_of_Adonis_Giuseppe_Mazzuoli.png">
+        </div>
+        <div class="column">
+            <img src="assets/gal/merged.png">
+        </div>
+</div>
+</div>
+
 <div id="About" style="display:none" class="tabs">
                 <p>&emsp;</p>
     <div>
