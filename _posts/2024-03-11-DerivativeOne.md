@@ -136,6 +136,9 @@ categories: [Stream]
 ***
 <div>
     <p>
-        To continue this derivative, I have a piece forthcoming in the next issue of <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, "<a href="https://www.buckmanjournal.com/submissions">Gorge</a>," which should drop July 2024. This piece, entitled <b>HAIL COLUMBIA!</b>, relies heavily on running-lines, and follows many of the ideas I've attempted to underscore in this article. I'll be sharing my piece here on maxie.rodeo after "<a href="https://www.buckmanjournal.com/submissions">Gorge</a>" is released, and will continue to update this page as more thoughts surface on <i>SOMETIMES A GREAT NOTION</i>. Also look forward to more definition surrounding my use of the word "derivative," as this is a topic of which I am engrossed.
+        To continue this derivative, I have a piece forthcoming in the next issue of <i><a href ="https://www.buckmanjournal.com/">Buckman Journal</a></i>, <a href="https://www.buckmanjournal.com/book-store/p/buckman-journal-gorge">Gorge</a>, which should drop July 2024. This piece, entitled <b>HAIL COLUMBIA!</b>, relies heavily on running-lines, and follows many of the ideas I've attempted to underscore in this article. I'll be sharing my piece here on maxie.rodeo after <a href="https://www.buckmanjournal.com/book-store/p/buckman-journal-gorge">Gorge</a> is released, and will continue to update this page as more thoughts surface on <i>SOMETIMES A GREAT NOTION</i>. Also look forward to more definition surrounding my use of the word "derivative," as this is a topic of which I am engrossed.
+    </p>
+    <p>
+        *Update from July, 2024! It's Here! Get your copy of Buckman Journal's, <a href="https://www.buckmanjournal.com/book-store/p/buckman-journal-gorge">Gorge</a> and read my piece, <b>HAIL COLUMBIA!</b> (Or check the publications tab here on maxie.rodeo, but still buy the book from Buckman for all the other great artists and writers ;D)
     </p>
 </div>
