@@ -17,4 +17,3 @@ categories: [Publications]
 <img src="/assets/img/turin_front_full.png" alt="Front-cover-of-Turin-Angel." width="790">
 
 <img src="/assets/img/turin_back_full.png" alt="Back-cover-of-Turin-Angel." width="790">
-
