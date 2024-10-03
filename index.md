@@ -93,7 +93,7 @@ layout: default
     Maxie is a poet, multimedia artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to their email, at the left of this page (or bottom, if you're on mobile).
 </p>        
 <p>
-    Maxwell has previously been published in Pathos litmag, Lurch Zine, and they also have a piece forthcoming in <i><a href ="https://www.buckmanjournal.com/book-store/p/buckman-journal-gorge">Buckman Journal</a></i>, entitled "HAIL COLUMBIA!" Expect this piece sometime in July! (It's available on pre-order right now!)
+    Maxwell has previously been published in Pathos litmag, Lurch Zine, Buckman Journal, Oroboro Lit Journal, and is now self-published! (Inquire via email if you'd like a copy of Turin Horse.)
 </p>
     </div>
                 <p>&emsp;</p>
