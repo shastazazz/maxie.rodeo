@@ -14,6 +14,8 @@ Please inquire via email (re: "contact me here") if you'd like to purchase a cop
 
 Support independent publishing! Support independent authors! Read Turin Angel!
 
+First published in September 2024.
+
 <video autoplay loop class="gifitem">
     <source src="/assets/video/turin.gif" type="video/gif">
     <source src="/assets/video/turin.mp4" type="video/mp4">
