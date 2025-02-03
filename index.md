@@ -8,7 +8,6 @@ layout: default
             <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
             <button class="index-nav-butts" onclick="opentabs('Zines')">Zines</button>
         </div>
-  <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
   <button class="index-nav-butts" onclick="opentabs('Stream')">Downstream</button>
   <button class="index-nav-butts" onclick="opentabs('About')">About</button>
 </div>
