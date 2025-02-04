@@ -141,10 +141,12 @@ function opentabs(tabsname) {
     buttons.forEach(button => button.classList.remove('active'));
 
     buttons.forEach(button => {
-        if (button.textContent === tabsname || 
-            (button.textContent === "Creations" && (tabsname === "Publications" || tabsname === "Zines")) || // Corrected condition
-            button.textContent === "Stream" && tabsname === "Stream" ||
-            button.textContent === "About" && tabsname === "About") { // Corrected condition
+        let buttonText = button.textContent; // Get the button text
+
+        if (tabsname === "Publications" && buttonText === "Creations" ||
+            tabsname === "Zines" && buttonText === "Creations" ||
+            tabsname === "Stream" && buttonText === "Downstream" || // Corrected condition
+            tabsname === "About" && buttonText === "About") {
             button.classList.add('active');
         }
     });
