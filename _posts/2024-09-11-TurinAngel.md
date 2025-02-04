@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Turin Angel"
-secrettitle: "Self Published, 2024"
+secrettitle: "Poems, 2024"
 imagehead: /assets/img/turin_headline.png
 headalt: "Headline of Turin Horse."
 date: 2024-09-11
-categories: [Publications]
+categories: [Zines]
 ---
 
 Turin Angel is poetry that stretches nearly 20 pages. It's got art, citations, and ekphrasis. Turin Angel is a poem about home, religion, animals, plants, humanity, and more more more... I printed it myself, hand-bound, edited, etc. etc... Turin horse is a poem: poems; art: arts. 
