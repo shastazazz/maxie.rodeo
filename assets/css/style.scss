@@ -30,6 +30,8 @@
     border-bottom: 2px solid #d3d3d3;
     margin-bottom:7px;
     padding-bottom:5px;
+    width: 100%; /* Make the button fill the container */
+    text-align: left; /* Align text to the left if needed */
 }
 /* Dropdown Container */
 .creations-dropdown {
