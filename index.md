@@ -135,7 +135,18 @@ function opentabs(tabsname) {
     for (i = 0; i < x.length; i++) {
         x[i].style.display = "none";  
     }
-    document.getElementById(tabsname).style.display = "block";  
+    document.getElementById(tabsname).style.display = "block";
+    
+    // Add this part to highlight the button:
+    var buttons = document.querySelectorAll('.index-nav-butts'); // Select all tab buttons
+    buttons.forEach(button => button.classList.remove('active')); // Remove 'active' from all
+
+    // Find the button corresponding to the selected tab and add 'active'
+    buttons.forEach(button => {
+        if (button.textContent === tabsname || button.textContent === "Creations" && tabsname === "Publications" || button.textContent === "Creations" && tabsname === "Zines" ) { // Match button text to tab name
+            button.classList.add('active');
+        }
+    });
 }
 
 opentabs('About'); // Default tab is About
