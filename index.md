@@ -133,17 +133,18 @@ function opentabs(tabsname) {
     var i;
     var x = document.getElementsByClassName("tabs");
     for (i = 0; i < x.length; i++) {
-        x[i].style.display = "none";  
+        x[i].style.display = "none";
     }
     document.getElementById(tabsname).style.display = "block";
-    
-    // Add this part to highlight the button:
-    var buttons = document.querySelectorAll('.index-nav-butts'); // Select all tab buttons
-    buttons.forEach(button => button.classList.remove('active')); // Remove 'active' from all
 
-    // Find the button corresponding to the selected tab and add 'active'
+    var buttons = document.querySelectorAll('.index-nav-butts');
+    buttons.forEach(button => button.classList.remove('active'));
+
     buttons.forEach(button => {
-        if (button.textContent === tabsname || button.textContent === "Creations" && tabsname === "Publications" || button.textContent === "Creations" && tabsname === "Zines" ) { // Match button text to tab name
+        if (button.textContent === tabsname || 
+            (button.textContent === "Creations" && (tabsname === "Publications" || tabsname === "Zines")) || // Corrected condition
+            button.textContent === "Stream" && tabsname === "Stream" ||
+            button.textContent === "About" && tabsname === "About") { // Corrected condition
             button.classList.add('active');
         }
     });
