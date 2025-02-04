@@ -88,7 +88,8 @@
 .flex-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between; /* Or space-around, space-evenly, flex-start, etc. */
+    flex-wrap: wrap;
 }
 
 .flex-container button {
