@@ -3,13 +3,12 @@ layout: default
 ---
 <div class="flex-container">
     <div class="creations-dropdown">
-        <button class="index-nav-butts" onclick="toggleDropdown()">Creations</button>
+        <button class="index-nav-butts">Creations</button>
         <div class="dropdown-content">
             <button class="index-nav-butts" onclick="opentabs('Publications')">Publications</button>
             <button class="index-nav-butts" onclick="opentabs('Zines')">Zines</button>
-        </div>
-  <button class="index-nav-butts" onclick="opentabs('Stream')">Downstream</button>
-  <button class="index-nav-butts" onclick="opentabs('About')">About</button>
+        </div>  </div> <button class="index-nav-butts" onclick="opentabs('Stream')">Downstream</button>
+    <button class="index-nav-butts" onclick="opentabs('About')">About</button>
 </div>
 
 <div id="Publications" class="tabs" style="display:none">
@@ -137,11 +136,6 @@ function opentabs(tabsname) {
         x[i].style.display = "none";  
     }
     document.getElementById(tabsname).style.display = "block";  
-}
-
-function toggleDropdown() {
-    const dropdown = document.querySelector('.creations-dropdown .dropdown-content');
-    dropdown.style.display = (dropdown.style.display === 'block') ? 'none' : 'block';
 }
 
 opentabs('About'); // Default tab is About
