@@ -122,7 +122,7 @@ layout: default
     </div>
     <div>
 <h3>About</h3>
-<p>This page was forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. The fonts used are <a href="https://fonts.google.com/specimen/Goblin+One?query=goblin+one">Goblin One</a>, by Riccardo De Franceschi, and <a href="https://fonts.google.com/specimen/Poltawski+Nowy">Półtawski Nowy</a>, by Adam Półtawski, Mateusz Machalski, Borys Kosmynka, and Ania Wieluńska. "maxie.rodeo" is being updated and managed by Maxwell Kline.</p>
+<p>This page was originally forked and adapted from the <a href="https://github.com/pages-themes/minimal">minimal</a> Jekyll theme for GitHub pages, by <a href="https://github.com/orderedlist">orderedlist</a>. ("maxie.rodeo" is evolving and leaving Minimal behind...) The fonts used are <a href="https://fonts.google.com/specimen/Goblin+One?query=goblin+one">Goblin One</a>, by Riccardo De Franceschi, and <a href="https://fonts.google.com/specimen/Poltawski+Nowy">Półtawski Nowy</a>, by Adam Półtawski, Mateusz Machalski, Borys Kosmynka, and Ania Wieluńska. "maxie.rodeo" is being updated and managed by Maxwell Kline.</p>
 <p>All copyright belongs to Maxwell, unless I (Maxwell) state otherwise (or in a siuation where that statement is just outright untrue ;D ). Through the lens of derivatives, I am heavily considering the ethics of copyright. Expect changes on that front.</p>
     </div>
     </div>
