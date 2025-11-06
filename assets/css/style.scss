@@ -7,7 +7,7 @@ body {
   padding:50px;
   font-family: "Poltawski Nowy";
     font-weight:400;
-    font-style: normal;
+    font-style: regular;
   font:16px;
   color:#000;
 }
@@ -21,7 +21,7 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
   font-family: "Poltawski Nowy";
     font-weight:400;
-    font-style: normal;
+    font-style: regular;
   font:16px;
   color:#000;
 }
@@ -29,14 +29,14 @@ p, ul, ol, table, pre, dl {
 h1, h2, h3 {
   font-family: "Goblin One";
     font-weight:400;
-    font-style:normal;
+    font-style:regular;
   line-height:1.1;
 }
 
 h1 {
   font-family: "Goblin One";
     font-weight:400;
-    font-style:normal;
+    font-style:regular;
   color:#000;
   font-size:28px;  
 }
@@ -44,7 +44,7 @@ h1 {
 h2 {
   font-family: "Goblin One";
     font-weight:400;
-    font-style:normal;
+    font-style:regular;
   color:#000;
 }
 
@@ -141,7 +141,7 @@ kbd {
 header {
   font-family: "Poltawski Nowy";
     font-weight:400;
-    font-style:normal;
+    font-style:regular;
   font:16px;
   color:#000;
   width:270px;
@@ -230,7 +230,7 @@ hr {
 footer {
   font-family: "Poltawski Nowy";
     font-weight:400;
-    font-style:normal;
+    font-style:regular;
   font:16px;
   color:#000;
   width:270px;
@@ -318,7 +318,7 @@ footer {
 @font-face {
   font-family: 'Goblin One';
   font-weight: 400;
-  font-style: normal;
+  font-style: regular;
   src: local('Goblin One'),
        local('Goblin-One-400'),
        url('../fonts/Goblin-One-400/Goblin-One-400.ttf') format('truetype');
@@ -327,7 +327,7 @@ footer {
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
-  font-style: normal;
+  font-style: regular;
   src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot');
   src: url('../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans'),
@@ -341,7 +341,7 @@ footer {
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot');
   src: url('../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Bold'),
@@ -369,7 +369,7 @@ footer {
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 700;
-  font-style: italic;
+  font-style: bold italic;
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot');
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Bold Italic'),
@@ -383,7 +383,7 @@ footer {
 @font-face {
   font-family: 'Poltawski Nowy';
   font-weight: 400;
-  font-style: normal;
+  font-style: regular;
   src: local('Poltawski Nowy'),
        local('PoltawskiNowy-Regular'),
        url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Regular.ttf') format('truetype');
@@ -392,7 +392,7 @@ footer {
 @font-face {
   font-family: 'Poltawski Nowy';
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
   src: local('Poltawski Nowy Bold'),
        local('PoltawskiNowy-Bold'),
        url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Bold.ttf') format('truetype');
@@ -410,13 +410,14 @@ footer {
 @font-face {
   font-family: 'Poltawski Nowy';
   font-weight: 700;
-  font-style: italic;
+  font-style: bold italic;
   src: local('Poltawski Nowy Bold Italic'),
        local('PoltawskiNowy-Italic'),
        url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Italic.ttf') format('truetype');
 }
 
 /* End Old Minimal Shit */
+
 .hoverbold:hover {
     font:bold;
     color:darkolivegreen;
@@ -434,7 +435,7 @@ footer {
 .creations-button, .index-nav-butts {
     font-family: "Goblin One";
         font-weight:400;
-        font-style:normal;
+        font-style:regular;
     font-size:26px; 
     color:#000;
     cursor: pointer;
@@ -525,7 +526,7 @@ footer {
 .stupidheader {
     font-family: "Goblin One";
         font-weight:400;
-        font-style:normal;
+        font-style:regular;
     font-size:26px; 
     color:#000;
     border-bottom: 2px solid #d3d3d3;
@@ -536,7 +537,7 @@ footer {
 .closereadright {
     font-family: "Poltawski-Nowy";
         font-weight: 400;
-        font-style:normal;
+        font-style:regular;
     color: #000;
     border-bottom:0px;
 }
