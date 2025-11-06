@@ -5,5 +5,5 @@ logo: /assets/img/logo.png
 description: A place for writing, art, and other multimedia. Maxwell Kline lives here. The rent is a little under 6 bucks a year.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: 
 author: Maxwell Kline
