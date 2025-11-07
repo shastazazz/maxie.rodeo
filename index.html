@@ -100,7 +100,7 @@ layout: default
                 </p>
             </div>
         </div>
-        <p>Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are currently raising a clutch of sage-grouse chicks in Portland, OR, as well as attending PSU (Portland State).</p>
+        <p>Max was born in Gresham, but grew up in the foothills of Boise. They have tamed several packs of coyotes, and spent much time photosynthesizing with big sagebrush. They are a graduate of Portland State University, and have a BFA in creative writing, as well as a BS in environmental studies.</p>
         <p>Maxie is a poet, multidisciplinary artist, gardener, bad coder (re: this site), and more! Please forward all inquiries to their email, at the left of this page (or bottom, if you're on mobile).</p>        
         <p>Maxwell has previously been published in Pathos litmag, Lurch Zine, Buckman Journal, Oroboro Lit Journal, and Chimera.</p>
     </div>
@@ -118,7 +118,7 @@ layout: default
     </div>
     <div>
 <h3>Downstream</h3>
-<p>I imagine this tab as an outflowing of rants, ravings, thoughts, and ideas. Think blog, think traincars, think sediment drift. Some downstreams will be in-progress, and some will be complete. I plan on posting future collaborations, projects, and whatever else the future might hold. (But never NFTs, this site is anti-NFT!)</p>
+<p>I imagine this tab as an outflowing of rants, ravings, thoughts, and ideas. Think blog, think traincars, think sediment drift. Some downstreams will be in-progress, and some will be complete. I plan on posting future collaborations, projects, and whatever else the future might hold. But all-human! And no NFTs! This site is anti-AI, and anti-token! (At the beginning of the AI rush, I took a course on R and scientific coding. In the class, we were suggested to use, and tasked with exploring, artificial intelligence as a resource for coding. During that period, I played with "vibe coding" and practiced shoving basic coding problems through The Beast. After a while, I found myself drifting away from coding all-together. The more distance, the more fear I had of returning. The environmental, artistic, and intellectual implications of artificial intelligence became too much for me. I became scared of coding, because I believed I had forgotten how. Months, even years later, I find myself coming back to this site; craving the artistic freedom it represents. This is a freedom exclusive from the march of capitalistic trends, and especially from The Beast; AI. Artificial intelligence does make coding "easier." But for me, that's not the point. I want to get better at coding, because coding is an art form. People are making beautiful websites on spaces like neocities, freakscene, even tumblr. It feels like an earlier vision of the internet might be returning. I want to embrace that artistic vision, and toubleshoot my own digital future. This website will not be beholden to AI. Neither will I.)</p>
     </div>
     <div>
 <h3>About</h3>
@@ -148,11 +148,11 @@ function opentabs(tabsname) {
     buttons.forEach(button => button.classList.remove('active'));
 
     buttons.forEach(button => {
-        let buttonText = button.textContent; // Get the button text
+        let buttonText = button.textContent;
 
         if (tabsname === "Publications" && buttonText === "Creations" ||
             tabsname === "Zines" && buttonText === "Creations" ||
-            tabsname === "Stream" && buttonText === "Downstream" || // Corrected condition
+            tabsname === "Stream" && buttonText === "Downstream" ||
             tabsname === "About" && buttonText === "About") {
             button.classList.add('active');
         }
