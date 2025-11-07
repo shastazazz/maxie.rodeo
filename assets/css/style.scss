@@ -92,7 +92,7 @@ table {
   border-collapse:collapse;
 }
 
-th, td {
+/* th, td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
@@ -105,7 +105,7 @@ dt {
 
 th {
   color:#444;
-}
+} */
 
 img {
   max-width:100%;
@@ -238,6 +238,7 @@ footer {
 /* End Old Minimal Shit */
 
 /* FONT WORLD */
+
 @font-face {
   font-family: 'Goblin One';
   font-weight: 400;
@@ -282,7 +283,9 @@ footer {
        local('PoltawskiNowy-Italic'),
        url('../fonts/Poltawski-Nowy/static/PoltawskiNowy-Italic.ttf') format('truetype');
 }
+
 /* END FONT WORLD */
+
 .hoverbold:hover {
     font:bold;
     color:darkolivegreen;
