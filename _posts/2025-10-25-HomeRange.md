@@ -10,9 +10,7 @@ categories: [Publications]
 
 <img src="/assets/img/home_on_the_range_full.png" alt="Home on the Range as seein in Chimera issue 1, along with the central image of the fan-zine." width="790">
 
-As part of _Chimera_, 
-
-This piece has also been published in LURCH issue 4: BITE, and as a pocket-sized My Own Private Idaho fan-zine.
+The center piece of _Chimera_ is called the Ampersand. For issue 1, the Ampersand piece was a removable accordion-fold poem by Aspen Hansen, tucked into a central folder. As part of the inaugural issue of the _Chimera_ zine, the reverse side of the Ampersand folder invited readers to "graft in" their own work. "Home on the Range" has also been published in LURCH issue 4: BITE, and as a pocket-sized My Own Private Idaho fan-zine. The fan-zine edition fits in the central Ampersand, and that is what you see lying across the work as-displayed in _Chimera_.
 
 This piece has previously been rejected by:
 
