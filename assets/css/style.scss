@@ -26,10 +26,17 @@ p, ul, ol, table, dl {
   color:#000;
 }
 
-h1, h2, h3 {
+h1, h2, {
     font-family: "Berlin Sans";
         font-weight:400;
         font-style:demibold;
+  line-height:1.1;
+}
+
+h3 {
+    font-family: "Berlin Sans";
+        font-weight:400;
+        font-style:regular;
   line-height:1.1;
 }
 
@@ -272,6 +279,16 @@ footer {
         local('BRLNSDB'),
         url('../fonts/Berlin-Sans/BRLNSDB.TTF') format('truetype');
 }
+
+@font-face {
+  font-family: 'Berlin Sans';
+  font-weight: 400;
+  font-style: regular;
+  src:  local('Berlin Sans Regular'),
+        local('BRLNSR'),
+        url('../fonts/Berlin-Sans/BRLNSR.TTF') format('truetype');
+}
+
 /* END FONT WORLD */
 
 .hoverbold:hover {
