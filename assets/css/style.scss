@@ -264,14 +264,14 @@ footer {
        url('../fonts/Garamond/GaramondATFText.otf') format('opentype');
 }
 
-@font-face
+@font-face {
   font-family: 'Berlin Sans';
   font-weight: 700;
   font-style: demibold;
   src:  local('Berlin Sans Demibold'),
         local('BRLNSDB'),
         url('../fonts/Berlin-Sans/BRLNSDB.TTF') format('truetype');
-
+}
 /* END FONT WORLD */
 
 .hoverbold:hover {
