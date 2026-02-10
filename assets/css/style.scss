@@ -29,7 +29,7 @@ p, ul, ol, table, dl {
 h1, h2, {
     font-family: "Berlin Sans";
         font-weight:1000;
-        font-style:bold;
+        font-style:demibold;
   line-height:1.1;
 }
 
@@ -43,7 +43,7 @@ h3 {
 h1 {
     font-family: "Berlin Sans";
         font-weight:1000;
-        font-style:bold;
+        font-style:demibold;
   color:#000;
   font-size:28px;  
 }
@@ -51,7 +51,7 @@ h1 {
 h2 {
     font-family: "Berlin Sans";
         font-weight:1000;
-        font-style:bold;
+        font-style:demibold;
   color:#000;
 }
 
@@ -274,7 +274,7 @@ footer {
 @font-face {
   font-family: 'Berlin Sans';
   font-weight: 1000;
-  font-style: bold;
+  font-style: demibold;
   src:  local('Berlin Sans Demibold'),
         local('BRLNSDB'),
         url('../fonts/Berlin-Sans/BRLNSDB.TTF') format('truetype');
@@ -308,7 +308,7 @@ footer {
 .creations-button, .index-nav-butts {
     font-family: "Berlin Sans";
         font-weight:1000;
-        font-style:bold;
+        font-style:demibold;
     font-size:26px; 
     color:#000;
     cursor: pointer;
@@ -399,7 +399,7 @@ footer {
 .stupidheader {
     font-family: "Berlin Sans";
         font-weight:1000;
-        font-style:bold;
+        font-style:demibold;
     font-size:26px; 
     color:#000;
     border-bottom: 2px solid #d3d3d3;
