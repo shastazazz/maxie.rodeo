@@ -24,7 +24,7 @@ the mystery of my flesh
 (An edit of all three pieces from my radio show, _The Pointless Forest_, on KPSU:)
 <audio controls>
   <source src="/assets/audio/cummingsbjorkkline.ogg" type="audio/ogg">
-  <source src="/assets/audio/cummingsbjorkkline.mp3" type="audio/mpeg">
+  <source src="/assets/audio/cummingsbjorkkline.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
